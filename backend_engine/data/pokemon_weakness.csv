@@ -1,0 +1,325 @@
+,Attack,Defense,Effect,Score
+0,Normal,Normal,normal effectiveness,1.0
+1,Normal,Fire,normal effectiveness,1.0
+2,Normal,Water,normal effectiveness,1.0
+3,Normal,Electric,normal effectiveness,1.0
+4,Normal,Grass,normal effectiveness,1.0
+5,Normal,Ice,normal effectiveness,1.0
+6,Normal,Fighting,normal effectiveness,1.0
+7,Normal,Poison,normal effectiveness,1.0
+8,Normal,Ground,normal effectiveness,1.0
+9,Normal,Flying,normal effectiveness,1.0
+10,Normal,Psychic,normal effectiveness,1.0
+11,Normal,Bug,normal effectiveness,1.0
+12,Normal,Rock,not very effective,0.5
+13,Normal,Ghost,no effect,0.0
+14,Normal,Dragon,normal effectiveness,1.0
+15,Normal,Dark,normal effectiveness,1.0
+16,Normal,Steel,not very effective,0.5
+17,Normal,Fairy,normal effectiveness,1.0
+18,Fire,Normal,normal effectiveness,1.0
+19,Fire,Fire,not very effective,0.5
+20,Fire,Water,not very effective,0.5
+21,Fire,Electric,normal effectiveness,1.0
+22,Fire,Grass,super-effective,2.0
+23,Fire,Ice,super-effective,2.0
+24,Fire,Fighting,normal effectiveness,1.0
+25,Fire,Poison,normal effectiveness,1.0
+26,Fire,Ground,normal effectiveness,1.0
+27,Fire,Flying,normal effectiveness,1.0
+28,Fire,Psychic,normal effectiveness,1.0
+29,Fire,Bug,super-effective,2.0
+30,Fire,Rock,not very effective,0.5
+31,Fire,Ghost,normal effectiveness,1.0
+32,Fire,Dragon,not very effective,0.5
+33,Fire,Dark,normal effectiveness,1.0
+34,Fire,Steel,super-effective,2.0
+35,Fire,Fairy,normal effectiveness,1.0
+36,Water,Normal,normal effectiveness,1.0
+37,Water,Fire,super-effective,2.0
+38,Water,Water,not very effective,0.5
+39,Water,Electric,normal effectiveness,1.0
+40,Water,Grass,not very effective,0.5
+41,Water,Ice,normal effectiveness,1.0
+42,Water,Fighting,normal effectiveness,1.0
+43,Water,Poison,normal effectiveness,1.0
+44,Water,Ground,super-effective,2.0
+45,Water,Flying,normal effectiveness,1.0
+46,Water,Psychic,normal effectiveness,1.0
+47,Water,Bug,normal effectiveness,1.0
+48,Water,Rock,super-effective,2.0
+49,Water,Ghost,normal effectiveness,1.0
+50,Water,Dragon,not very effective,0.5
+51,Water,Dark,normal effectiveness,1.0
+52,Water,Steel,normal effectiveness,1.0
+53,Water,Fairy,normal effectiveness,1.0
+54,Electric,Normal,normal effectiveness,1.0
+55,Electric,Fire,normal effectiveness,1.0
+56,Electric,Water,super-effective,2.0
+57,Electric,Electric,not very effective,0.5
+58,Electric,Grass,not very effective,0.5
+59,Electric,Ice,normal effectiveness,1.0
+60,Electric,Fighting,normal effectiveness,1.0
+61,Electric,Poison,normal effectiveness,1.0
+62,Electric,Ground,no effect,0.0
+63,Electric,Flying,super-effective,2.0
+64,Electric,Psychic,normal effectiveness,1.0
+65,Electric,Bug,normal effectiveness,1.0
+66,Electric,Rock,normal effectiveness,1.0
+67,Electric,Ghost,normal effectiveness,1.0
+68,Electric,Dragon,not very effective,0.5
+69,Electric,Dark,normal effectiveness,1.0
+70,Electric,Steel,normal effectiveness,1.0
+71,Electric,Fairy,normal effectiveness,1.0
+72,Grass,Normal,normal effectiveness,1.0
+73,Grass,Fire,not very effective,0.5
+74,Grass,Water,super-effective,2.0
+75,Grass,Electric,normal effectiveness,1.0
+76,Grass,Grass,not very effective,0.5
+77,Grass,Ice,normal effectiveness,1.0
+78,Grass,Fighting,normal effectiveness,1.0
+79,Grass,Poison,not very effective,0.5
+80,Grass,Ground,super-effective,2.0
+81,Grass,Flying,not very effective,0.5
+82,Grass,Psychic,normal effectiveness,1.0
+83,Grass,Bug,not very effective,0.5
+84,Grass,Rock,super-effective,2.0
+85,Grass,Ghost,normal effectiveness,1.0
+86,Grass,Dragon,not very effective,0.5
+87,Grass,Dark,normal effectiveness,1.0
+88,Grass,Steel,not very effective,0.5
+89,Grass,Fairy,normal effectiveness,1.0
+90,Ice,Normal,normal effectiveness,1.0
+91,Ice,Fire,not very effective,0.5
+92,Ice,Water,not very effective,0.5
+93,Ice,Electric,normal effectiveness,1.0
+94,Ice,Grass,super-effective,2.0
+95,Ice,Ice,not very effective,0.5
+96,Ice,Fighting,normal effectiveness,1.0
+97,Ice,Poison,normal effectiveness,1.0
+98,Ice,Ground,super-effective,2.0
+99,Ice,Flying,super-effective,2.0
+100,Ice,Psychic,normal effectiveness,1.0
+101,Ice,Bug,normal effectiveness,1.0
+102,Ice,Rock,normal effectiveness,1.0
+103,Ice,Ghost,normal effectiveness,1.0
+104,Ice,Dragon,super-effective,2.0
+105,Ice,Dark,normal effectiveness,1.0
+106,Ice,Steel,not very effective,0.5
+107,Ice,Fairy,normal effectiveness,1.0
+108,Fighting,Normal,super-effective,2.0
+109,Fighting,Fire,normal effectiveness,1.0
+110,Fighting,Water,normal effectiveness,1.0
+111,Fighting,Electric,normal effectiveness,1.0
+112,Fighting,Grass,normal effectiveness,1.0
+113,Fighting,Ice,super-effective,2.0
+114,Fighting,Fighting,normal effectiveness,1.0
+115,Fighting,Poison,not very effective,0.5
+116,Fighting,Ground,normal effectiveness,1.0
+117,Fighting,Flying,not very effective,0.5
+118,Fighting,Psychic,not very effective,0.5
+119,Fighting,Bug,not very effective,0.5
+120,Fighting,Rock,super-effective,2.0
+121,Fighting,Ghost,no effect,0.0
+122,Fighting,Dragon,normal effectiveness,1.0
+123,Fighting,Dark,super-effective,2.0
+124,Fighting,Steel,super-effective,2.0
+125,Fighting,Fairy,not very effective,0.5
+126,Poison,Normal,normal effectiveness,1.0
+127,Poison,Fire,normal effectiveness,1.0
+128,Poison,Water,normal effectiveness,1.0
+129,Poison,Electric,normal effectiveness,1.0
+130,Poison,Grass,super-effective,2.0
+131,Poison,Ice,normal effectiveness,1.0
+132,Poison,Fighting,normal effectiveness,1.0
+133,Poison,Poison,not very effective,0.5
+134,Poison,Ground,not very effective,0.5
+135,Poison,Flying,normal effectiveness,1.0
+136,Poison,Psychic,normal effectiveness,1.0
+137,Poison,Bug,normal effectiveness,1.0
+138,Poison,Rock,not very effective,0.5
+139,Poison,Ghost,not very effective,0.5
+140,Poison,Dragon,normal effectiveness,1.0
+141,Poison,Dark,normal effectiveness,1.0
+142,Poison,Steel,no effect,0.0
+143,Poison,Fairy,super-effective,2.0
+144,Ground,Normal,normal effectiveness,1.0
+145,Ground,Fire,super-effective,2.0
+146,Ground,Water,normal effectiveness,1.0
+147,Ground,Electric,super-effective,2.0
+148,Ground,Grass,not very effective,0.5
+149,Ground,Ice,normal effectiveness,1.0
+150,Ground,Fighting,normal effectiveness,1.0
+151,Ground,Poison,super-effective,2.0
+152,Ground,Ground,normal effectiveness,1.0
+153,Ground,Flying,no effect,0.0
+154,Ground,Psychic,normal effectiveness,1.0
+155,Ground,Bug,not very effective,0.5
+156,Ground,Rock,super-effective,2.0
+157,Ground,Ghost,normal effectiveness,1.0
+158,Ground,Dragon,normal effectiveness,1.0
+159,Ground,Dark,normal effectiveness,1.0
+160,Ground,Steel,super-effective,2.0
+161,Ground,Fairy,normal effectiveness,1.0
+162,Flying,Normal,normal effectiveness,1.0
+163,Flying,Fire,normal effectiveness,1.0
+164,Flying,Water,normal effectiveness,1.0
+165,Flying,Electric,not very effective,0.5
+166,Flying,Grass,super-effective,2.0
+167,Flying,Ice,normal effectiveness,1.0
+168,Flying,Fighting,super-effective,2.0
+169,Flying,Poison,normal effectiveness,1.0
+170,Flying,Ground,normal effectiveness,1.0
+171,Flying,Flying,normal effectiveness,1.0
+172,Flying,Psychic,normal effectiveness,1.0
+173,Flying,Bug,super-effective,2.0
+174,Flying,Rock,not very effective,0.5
+175,Flying,Ghost,normal effectiveness,1.0
+176,Flying,Dragon,normal effectiveness,1.0
+177,Flying,Dark,normal effectiveness,1.0
+178,Flying,Steel,not very effective,0.5
+179,Flying,Fairy,normal effectiveness,1.0
+180,Psychic,Normal,normal effectiveness,1.0
+181,Psychic,Fire,normal effectiveness,1.0
+182,Psychic,Water,normal effectiveness,1.0
+183,Psychic,Electric,normal effectiveness,1.0
+184,Psychic,Grass,normal effectiveness,1.0
+185,Psychic,Ice,normal effectiveness,1.0
+186,Psychic,Fighting,super-effective,2.0
+187,Psychic,Poison,super-effective,2.0
+188,Psychic,Ground,normal effectiveness,1.0
+189,Psychic,Flying,normal effectiveness,1.0
+190,Psychic,Psychic,not very effective,0.5
+191,Psychic,Bug,normal effectiveness,1.0
+192,Psychic,Rock,normal effectiveness,1.0
+193,Psychic,Ghost,normal effectiveness,1.0
+194,Psychic,Dragon,normal effectiveness,1.0
+195,Psychic,Dark,no effect,0.0
+196,Psychic,Steel,not very effective,0.5
+197,Psychic,Fairy,normal effectiveness,1.0
+198,Bug,Normal,normal effectiveness,1.0
+199,Bug,Fire,not very effective,0.5
+200,Bug,Water,normal effectiveness,1.0
+201,Bug,Electric,normal effectiveness,1.0
+202,Bug,Grass,super-effective,2.0
+203,Bug,Ice,normal effectiveness,1.0
+204,Bug,Fighting,not very effective,0.5
+205,Bug,Poison,not very effective,0.5
+206,Bug,Ground,normal effectiveness,1.0
+207,Bug,Flying,not very effective,0.5
+208,Bug,Psychic,super-effective,2.0
+209,Bug,Bug,normal effectiveness,1.0
+210,Bug,Rock,normal effectiveness,1.0
+211,Bug,Ghost,not very effective,0.5
+212,Bug,Dragon,normal effectiveness,1.0
+213,Bug,Dark,super-effective,2.0
+214,Bug,Steel,not very effective,0.5
+215,Bug,Fairy,not very effective,0.5
+216,Rock,Normal,normal effectiveness,1.0
+217,Rock,Fire,super-effective,2.0
+218,Rock,Water,normal effectiveness,1.0
+219,Rock,Electric,normal effectiveness,1.0
+220,Rock,Grass,normal effectiveness,1.0
+221,Rock,Ice,super-effective,2.0
+222,Rock,Fighting,not very effective,0.5
+223,Rock,Poison,normal effectiveness,1.0
+224,Rock,Ground,not very effective,0.5
+225,Rock,Flying,super-effective,2.0
+226,Rock,Psychic,normal effectiveness,1.0
+227,Rock,Bug,super-effective,2.0
+228,Rock,Rock,normal effectiveness,1.0
+229,Rock,Ghost,normal effectiveness,1.0
+230,Rock,Dragon,normal effectiveness,1.0
+231,Rock,Dark,normal effectiveness,1.0
+232,Rock,Steel,not very effective,0.5
+233,Rock,Fairy,normal effectiveness,1.0
+234,Ghost,Normal,no effect,0.0
+235,Ghost,Fire,normal effectiveness,1.0
+236,Ghost,Water,normal effectiveness,1.0
+237,Ghost,Electric,normal effectiveness,1.0
+238,Ghost,Grass,normal effectiveness,1.0
+239,Ghost,Ice,normal effectiveness,1.0
+240,Ghost,Fighting,normal effectiveness,1.0
+241,Ghost,Poison,normal effectiveness,1.0
+242,Ghost,Ground,normal effectiveness,1.0
+243,Ghost,Flying,normal effectiveness,1.0
+244,Ghost,Psychic,super-effective,2.0
+245,Ghost,Bug,normal effectiveness,1.0
+246,Ghost,Rock,normal effectiveness,1.0
+247,Ghost,Ghost,super-effective,2.0
+248,Ghost,Dragon,normal effectiveness,1.0
+249,Ghost,Dark,not very effective,0.5
+250,Ghost,Steel,normal effectiveness,1.0
+251,Ghost,Fairy,normal effectiveness,1.0
+252,Dragon,Normal,normal effectiveness,1.0
+253,Dragon,Fire,normal effectiveness,1.0
+254,Dragon,Water,normal effectiveness,1.0
+255,Dragon,Electric,normal effectiveness,1.0
+256,Dragon,Grass,normal effectiveness,1.0
+257,Dragon,Ice,normal effectiveness,1.0
+258,Dragon,Fighting,normal effectiveness,1.0
+259,Dragon,Poison,normal effectiveness,1.0
+260,Dragon,Ground,normal effectiveness,1.0
+261,Dragon,Flying,normal effectiveness,1.0
+262,Dragon,Psychic,normal effectiveness,1.0
+263,Dragon,Bug,normal effectiveness,1.0
+264,Dragon,Rock,normal effectiveness,1.0
+265,Dragon,Ghost,normal effectiveness,1.0
+266,Dragon,Dragon,super-effective,2.0
+267,Dragon,Dark,normal effectiveness,1.0
+268,Dragon,Steel,not very effective,0.5
+269,Dragon,Fairy,no effect,0.0
+270,Dark,Normal,normal effectiveness,1.0
+271,Dark,Fire,normal effectiveness,1.0
+272,Dark,Water,normal effectiveness,1.0
+273,Dark,Electric,normal effectiveness,1.0
+274,Dark,Grass,normal effectiveness,1.0
+275,Dark,Ice,normal effectiveness,1.0
+276,Dark,Fighting,not very effective,0.5
+277,Dark,Poison,normal effectiveness,1.0
+278,Dark,Ground,normal effectiveness,1.0
+279,Dark,Flying,normal effectiveness,1.0
+280,Dark,Psychic,super-effective,2.0
+281,Dark,Bug,normal effectiveness,1.0
+282,Dark,Rock,normal effectiveness,1.0
+283,Dark,Ghost,super-effective,2.0
+284,Dark,Dragon,normal effectiveness,1.0
+285,Dark,Dark,not very effective,0.5
+286,Dark,Steel,normal effectiveness,1.0
+287,Dark,Fairy,not very effective,0.5
+288,Steel,Normal,normal effectiveness,1.0
+289,Steel,Fire,not very effective,0.5
+290,Steel,Water,not very effective,0.5
+291,Steel,Electric,not very effective,0.5
+292,Steel,Grass,normal effectiveness,1.0
+293,Steel,Ice,super-effective,2.0
+294,Steel,Fighting,normal effectiveness,1.0
+295,Steel,Poison,normal effectiveness,1.0
+296,Steel,Ground,normal effectiveness,1.0
+297,Steel,Flying,normal effectiveness,1.0
+298,Steel,Psychic,normal effectiveness,1.0
+299,Steel,Bug,normal effectiveness,1.0
+300,Steel,Rock,super-effective,2.0
+301,Steel,Ghost,normal effectiveness,1.0
+302,Steel,Dragon,normal effectiveness,1.0
+303,Steel,Dark,normal effectiveness,1.0
+304,Steel,Steel,not very effective,0.5
+305,Steel,Fairy,super-effective,2.0
+306,Fairy,Normal,normal effectiveness,1.0
+307,Fairy,Fire,not very effective,0.5
+308,Fairy,Water,normal effectiveness,1.0
+309,Fairy,Electric,normal effectiveness,1.0
+310,Fairy,Grass,normal effectiveness,1.0
+311,Fairy,Ice,normal effectiveness,1.0
+312,Fairy,Fighting,super-effective,2.0
+313,Fairy,Poison,not very effective,0.5
+314,Fairy,Ground,normal effectiveness,1.0
+315,Fairy,Flying,normal effectiveness,1.0
+316,Fairy,Psychic,normal effectiveness,1.0
+317,Fairy,Bug,normal effectiveness,1.0
+318,Fairy,Rock,normal effectiveness,1.0
+319,Fairy,Ghost,normal effectiveness,1.0
+320,Fairy,Dragon,super-effective,2.0
+321,Fairy,Dark,super-effective,2.0
+322,Fairy,Steel,not very effective,0.5
+323,Fairy,Fairy,normal effectiveness,1.0

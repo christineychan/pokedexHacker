@@ -1,0 +1,70 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px 100px;
+  margin-left: 35%;
+  margin-top: 2%;
+}
+.type {
+  width: 70px;
+  height: 30px;
+  padding: 10px;
+  background-color: green;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  text-shadow: 1px 1px black;
+  border-radius: 5px;
+}
+
+.type:hover {
+  box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.5);
+}
+
+.Normal {
+  background-color: #bcbcaf;
+}
+
+.Fire {
+  background-color: #fa5443;
+}
+.Water {
+  background-color: #56adff;
+}
+.Grass {
+  background-color: #8ad44e;
+}
+.Ground {
+  background-color: #edcc56;
+}
+.Electric {
+  background-color: #fde53c;
+}
+.Ghost {
+  background-color: #7974d6;
+}
+.Dark {
+  background-color: #8e6956;
+}
+.Fairy {
+  background-color: #fcadff;
+}
+.Dragon {
+  background-color: #8a76ff;
+}
+.Steel {
+  background-color: #c4c2da;
+}
+.Poison {
+  background-color: #a75d9f;
+}
+
+.resultsDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.roll-in-blurred-right{-webkit-animation:roll-in-blurred-right 5s cubic-bezier(.23,1.000,.32,1.000) both;animation:roll-in-blurred-right 2s cubic-bezier(.23,1.000,.32,1.000) both}
+@-webkit-keyframes roll-in-blurred-right{0%{-webkit-transform:translateX(1000px) rotate(720deg);transform:translateX(1000px) rotate(720deg);-webkit-filter:blur(50px);filter:blur(50px);opacity:0}100%{-webkit-transform:translateX(0) rotate(0deg);transform:translateX(0) rotate(0deg);-webkit-filter:blur(0);filter:blur(0);opacity:1}}@keyframes roll-in-blurred-right{0%{-webkit-transform:translateX(1000px) rotate(720deg);transform:translateX(1000px) rotate(720deg);-webkit-filter:blur(50px);filter:blur(50px);opacity:0}100%{-webkit-transform:translateX(0) rotate(0deg);transform:translateX(0) rotate(0deg);-webkit-filter:blur(0);filter:blur(0);opacity:1}}
