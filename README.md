@@ -1,5 +1,5 @@
 # Pokedex Hacker
-The Pokedex Hacker helps identify counter types to an opponent's Pokemon. Users can enter in dual types or the opposing Pokemon's name and receive the most effective types to overthrow their opponent. Super-effective moves can cause 2x damage. Made with Python.
+The Pokedex Hacker helps identify counter types to an opponent's Pokemon. Users can enter in dual types or the opposing Pokemon's name and receive the most effective types to overthrow their opponent. Super-effective moves can cause 2x damage. Made with Python, React, and Flask.
 
 ![pokedexGIF.gif](pokedexGIF.gif)
 
