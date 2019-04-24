@@ -18,7 +18,7 @@ class Result extends Component {
    return (
      // <div>{results}</div>
      <div className="resultsDiv roll-in-blurred-right">
-       <h2>your counters are: </h2>
+       <h2> Counter with: </h2>
        <div>{results}</div>
      </div>
    );

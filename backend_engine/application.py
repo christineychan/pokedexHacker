@@ -41,7 +41,7 @@ def best_counter(type1, type2):
     else:
         best_counter = [x for x in counter1 if x not in vunerable1]
     
-    return(best_counter)
+    return(list(set(best_counter)))
 
 # Objective of this function is to find best counter if user enters in pokemon name
 def best_counter_pokemon(pokemon):

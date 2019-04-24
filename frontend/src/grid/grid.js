@@ -175,6 +175,61 @@ class Grid extends React.Component {
           >
             Poison
           </button>
+
+          <button
+            className={`type Fighting`}
+            onClick={e => {
+              this.handleChange(e, "Fighting");
+            }}
+          >
+            Fighting
+          </button>
+
+          <button
+            className={`type Psychic`}
+            onClick={e => {
+              this.handleChange(e, "Psychic");
+            }}
+          >
+            Psychic
+          </button>
+
+          <button
+            className={`type Rock`}
+            onClick={e => {
+              this.handleChange(e, "Rock");
+            }}
+          >
+            Rock
+          </button>
+
+          <button
+            className={`type Ice`}
+            onClick={e => {
+              this.handleChange(e, "Ice");
+            }}
+          >
+            Ice
+          </button>
+
+          <button
+            className={`type Flying`}
+            onClick={e => {
+              this.handleChange(e, "Flying");
+            }}
+          >
+            Flying
+          </button>
+
+          <button
+            className={`type Bug`}
+            onClick={e => {
+              this.handleChange(e, "Bug");
+            }}
+          >
+            Bug
+          </button>
+
         </div>
       </>
     );

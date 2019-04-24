@@ -59,7 +59,7 @@ class App extends Component {
             />
 
             <div className="logo roll-in-blurred-right">
-              <p className="tracking-in-expand">Pokedex hacker</p>
+              <p className="tracking-in-expand">Pokédex Hacker</p>
             </div>
 
             <Switch>

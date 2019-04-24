@@ -1,9 +1,11 @@
 .search_bar {
   margin-top: 2%;
-  width: 30%;
+  width: 35%;
   height: 50px;
+  justify-content: center;
   left: 32%;
   z-index: 1;
+
 }
 
 .roll-in-blurred-right{-webkit-animation:roll-in-blurred-right 2s cubic-bezier(.23,1.000,.32,1.000) both;animation:roll-in-blurred-right 2s cubic-bezier(.23,1.000,.32,1.000) both}
